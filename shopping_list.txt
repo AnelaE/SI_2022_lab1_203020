@@ -3,3 +3,4 @@ Milk x5
 Bread x2
 Cheese x3
 Jam  x1
+Apple x6
