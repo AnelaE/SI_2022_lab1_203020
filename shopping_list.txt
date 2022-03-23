@@ -1,5 +1,5 @@
-Eggs
-Milk
-Bread
-Rice
-Jam
+Eggs x10
+Milk x2
+Bread x2
+Rice x3
+Jam  x5
