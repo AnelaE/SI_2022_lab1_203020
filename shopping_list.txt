@@ -1,5 +1,5 @@
 Eggs x10
-Milk x2
+Milk x5
 Bread x2
-Rice x3
-Jam  x5
+Cheese x3
+Jam  x1
