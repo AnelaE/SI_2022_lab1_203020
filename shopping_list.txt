@@ -3,4 +3,7 @@ Milk x5
 Bread x2
 Cheese x3
 Jam  x1
+<<<<<<< HEAD
 Apple x6
+=======
+>>>>>>> f0ec016ebceaf62a93e0435d2793213d1380515a
