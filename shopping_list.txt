@@ -2,4 +2,4 @@ Eggs x10
 Milk x2
 Bread x2
 Rice x3
-Jam  x5
+Jam  x1
