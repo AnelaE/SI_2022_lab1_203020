@@ -1,5 +1,8 @@
 Eggs x10
 Milk x5
 Bread x2
-Rice x3
+Cheese x3
 Jam  x1
+Apple x6
+
+
